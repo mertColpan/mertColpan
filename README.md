@@ -1,6 +1,8 @@
 <h1 align="left">👋 Hi, I'm Mert!</h1>
 
-![](anime-maomao.gif)
+<div align="center">
+  <img src="anime-maomao.gif" width="500" alt="anime gif" />
+</div>
 
 ###
 
@@ -75,7 +77,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertColpan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mertColpan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
