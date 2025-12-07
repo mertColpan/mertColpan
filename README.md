@@ -1,5 +1,7 @@
 <h1 align="left">👋 Hi, I'm Mert!</h1>
 
+![](anime-maomao.gif)
+
 ###
 
 <h2 align="left">About Me</h2>
